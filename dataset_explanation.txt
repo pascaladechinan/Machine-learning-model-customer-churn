@@ -1,0 +1,62 @@
+N ° de client
+N ° de client
+
+genre
+Que le client soit un homme ou une femme
+
+SeniorCitoyen
+Si le client est un senior ou non (1, 0)
+
+Partenaire
+Si le client a un partenaire ou non (Oui, Non)
+
+Personnes à charge
+Si le client a des personnes à charge ou non (Oui, Non)
+
+mandat
+Nombre de mois pendant lesquels le client est resté dans l'entreprise
+
+Service téléphonique
+Si le client a un service téléphonique ou non (Oui, Non)
+
+Lignes multiples
+Si le client a plusieurs lignes ou non (Oui, Non, Pas de service téléphonique)
+
+Service Internet
+Fournisseur de services Internet du client (DSL, Fibre optique, Non)
+
+Sécurité en ligne
+Si le client dispose ou non d'une sécurité en ligne (Oui, Non, Pas de service Internet)
+
+Sauvegarde en ligne
+Si le client a une sauvegarde en ligne ou non (Oui, Non, Pas de service Internet)
+
+Protection de l'appareil
+Si le client dispose ou non d'une protection d'appareil (Oui, Non, Pas de service Internet)
+
+Support technique
+Si le client dispose d'un support technique ou non (Oui, Non, Pas de service Internet)
+
+StreamingTV
+Si le client dispose ou non de la télévision en streaming (Oui, Non, Pas de service Internet)
+
+StreamingFilms
+Si le client a des films en streaming ou non (Oui, Non, Pas de service Internet)
+
+Contracter
+La durée du contrat du client (mois par mois, un an, deux ans)
+
+Facturation sans papier
+Si le client a une facturation sans papier ou non (Oui, Non)
+
+Mode de paiement
+Le mode de paiement du client (Chèque électronique, Chèque postal, Virement bancaire (automatique), Carte de crédit (automatique))
+
+Frais mensuels
+Le montant facturé au client mensuellement
+
+Charges totales
+Le montant total facturé au client
+
+Baratte
+Si le client s'est retourné ou non (oui ou non)
